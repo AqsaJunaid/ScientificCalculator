@@ -1,0 +1,12 @@
+C:\- Extra Disk\University Work\ScientificCalculator\Debug\ScientificCalculator.vcxproj.AssemblyReference.cache
+C:\- Extra Disk\University Work\ScientificCalculator\Debug\ScientificCalculator.vcxproj.SuggestedBindingRedirects.cache
+C:\- Extra Disk\University Work\ScientificCalculator\Debug\ScientificCalculator.MyForm.resources
+C:\- Extra Disk\University Work\ScientificCalculator\Debug\ScientificCalculator.LoginForm.resources
+C:\- Extra Disk\University Work\ScientificCalculator\Debug\ScientificCalculator.vcxproj.GenerateResource.cache
+C:\- Extra Disk\University Work\ScientificCalculator\Debug\ScientificCalculator.exe
+C:\- Extra Disk\University Work\Semester 1\Scientific Calculator\Debug\ScientificCalculator.vcxproj.AssemblyReference.cache
+C:\- Extra Disk\University Work\Semester 1\Scientific Calculator\Debug\ScientificCalculator.vcxproj.SuggestedBindingRedirects.cache
+C:\- Extra Disk\University Work\Semester 1\Scientific Calculator\Debug\ScientificCalculator.MyForm.resources
+C:\- Extra Disk\University Work\Semester 1\Scientific Calculator\Debug\ScientificCalculator.LoginForm.resources
+C:\- Extra Disk\University Work\Semester 1\Scientific Calculator\Debug\ScientificCalculator.vcxproj.GenerateResource.cache
+C:\- Extra Disk\University Work\Semester 1\Scientific Calculator\Debug\ScientificCalculator.exe
